@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/366018622772115479/0beceee9450e430a9fe74c6714dc2684/artifacts
+deleted_time: 1688447016619
+end_time: 1688446213611
+entry_point_name: ''
+experiment_id: '366018622772115479'
+lifecycle_stage: deleted
+run_id: 0beceee9450e430a9fe74c6714dc2684
+run_name: polite-shrike-452
+run_uuid: 0beceee9450e430a9fe74c6714dc2684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688444673439
+status: 3
+tags: []
+user_id: lucas
