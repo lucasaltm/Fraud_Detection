@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/889070811979998978/b1b78dbf1fb14a148078ef4750f4e70a/artifacts
+end_time: 1689328261708
+entry_point_name: ''
+experiment_id: '889070811979998978'
+lifecycle_stage: active
+run_id: b1b78dbf1fb14a148078ef4750f4e70a
+run_name: popular-robin-602
+run_uuid: b1b78dbf1fb14a148078ef4750f4e70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689328193283
+status: 4
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/889070811979998978/dd76ffadff984dafb86edc3593e60921/artifacts
+end_time: 1689213406629
+entry_point_name: ''
+experiment_id: '889070811979998978'
+lifecycle_stage: active
+run_id: dd76ffadff984dafb86edc3593e60921
+run_name: Run 28 - RandomForestClassifier
+run_uuid: dd76ffadff984dafb86edc3593e60921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689211820441
+status: 3
+tags: []
+user_id: lucas
